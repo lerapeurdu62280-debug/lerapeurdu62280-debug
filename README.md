@@ -7,7 +7,7 @@ Je suis un passionné de développement et de nouvelles technologies. Bienvenue 
 ### 🚀 À propos de moi
 * 🔭 Je travaille actuellement sur : **Des projets personnels et de l'apprentissage.**
 * 🌱 J'apprends actuellement : **Le développement Web et la gestion de versions.**
-* 💬 Tu peux me demander de l'aide sur : **Le débogage (comme mon nom l'indique !)**
+* 💬 Tu peux me demander de l'aide sur : **Le débogage.**
 * ⚡ Fait amusant : **Je code mieux avec de la musique.**
 
 ---
