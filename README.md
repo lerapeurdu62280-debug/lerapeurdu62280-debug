@@ -65,11 +65,14 @@ print(moi.salut())
 
 ---
 
-## 🏆 Trophées
+## 🏅 Badges
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lerapeurdu62280-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+![GitHub followers](https://img.shields.io/github/followers/lerapeurdu62280-debug?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/lerapeurdu62280-debug?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github)
+![GitHub commits](https://img.shields.io/badge/Commits-54-58a6ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 
 </div>
 
