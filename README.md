@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:7c3aed,100:00d2ff&height=200&section=header&text=SOS%20INFO%20LUDO&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Passione%20de%20dev%20%26%20nouvelles%20technologies&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Je+code+mieux+avec+de+la+musique;Toujours+en+train+d%27apprendre...;Python+%7C+JavaScript+%7C+HTML%2FCSS;Open+to+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salut+je+suis+SOS+INFO+LUDO+%F0%9F%91%8B;Je+code+mieux+avec+de+la+musique+%F0%9F%8E%B5;Python+%7C+JavaScript+%7C+HTML%2FCSS;Toujours+en+train+d%27apprendre...)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +15,7 @@ class SosInfoLudo:
         self.langages   = ["Python", "JavaScript", "HTML/CSS"]
         self.outils     = ["Git", "VS Code", "Linux"]
         self.os         = ["Windows", "Linux"]
-        self.en_cours   = "Developpement Web & gestion de versions"
+        self.en_cours   = "Developpement Web et gestion de versions"
         self.aide_sur   = "Le debogage"
         self.fun_fact   = "Je code mieux avec de la musique"
 
@@ -30,7 +28,7 @@ print(moi.salut())
 
 ---
 
-## 🛠️ Stack & Outils
+## 🛠️ Stack et Outils
 
 <div align="center">
 
@@ -90,7 +88,5 @@ print(moi.salut())
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=lerapeurdu62280-debug&color=58a6ff&style=for-the-badge&label=VUES+DU+PROFIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:7c3aed,100:1f6feb&height=100&section=footer" width="100%"/>
 
 </div>
