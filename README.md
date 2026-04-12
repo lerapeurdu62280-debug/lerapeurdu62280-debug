@@ -1,91 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header&text=Ludovic%20Tourniquet&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=S.O.S%20INFO%20LUDO%20%E2%80%94%20Technicien%20%26%20Developpeur%20Windows&descSize=14&descAlignY=85&descColor=94A3B8" width="100%"/>
+# 👋 Bonjour, je suis Ludovic Tourniquet
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Technicien+informatique+independant+%F0%9F%94%A7;Developpeur+de+logiciels+Windows+commerciaux+%F0%9F%92%BB;Electron+%C2%B7+Node.js+%C2%B7+HTML%2FCSS%2FJS;Boulogne-sur-Mer+%2862200%29+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
+### Technicien informatique indépendant — S.O.S INFO LUDO
+#### 📍 Boulogne-sur-Mer (62200) — Hauts-de-France
+
+<br/>
+
+[![Site web](https://img.shields.io/badge/🌐_Site_web-sosinfoludo.fr-2563EB?style=for-the-badge)](https://sosinfoludo.fr)
+[![Localisation](https://img.shields.io/badge/📍_Boulogne--sur--Mer-62200-64748B?style=for-the-badge)](https://sosinfoludo.fr)
 
 </div>
 
 ---
 
-## 🏢 S.O.S INFO LUDO
+## 🧰 Ce que je fais
 
-> Technicien informatique indépendant basé à **Boulogne-sur-Mer (62200)**.  
-> Je conçois et distribue des **logiciels Windows commerciaux** pour les professionnels de l'informatique.
+Technicien informatique indépendant depuis plusieurs années, je propose :
 
-📧 **sosinfoludo@gmail.com** &nbsp;|&nbsp; 📍 **Boulogne-sur-Mer, France**
+- 🔧 **Réparation** d'ordinateurs, PC et portables
+- 💾 **Récupération de données** sur tous supports
+- 🔒 **Sécurisation** et maintenance système
+- 🏠 **Assistance** à domicile et en atelier
 
 ---
 
-## 🛍️ Mes logiciels
+## 🛠️ Mes logiciels professionnels
+
+> Des outils que j'ai développés pour mon activité et disponibles à la vente
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔧 RepairPilot Pro
-**Le cockpit du technicien informatique**
-
-- Fiches client & suivi réparations
-- Devis et facturation PDF
-- Tableau de bord & statistiques
-- Assistant IA (optionnel)
-
-[![Télécharger](https://img.shields.io/badge/Télécharger-15€-7C3AED?style=for-the-badge&logo=windows)](https://github.com/lerapeurdu62280-debug/repairpilot-pro/releases)
-[![GitHub](https://img.shields.io/github/stars/lerapeurdu62280-debug/repairpilot-pro?style=flat&color=7C3AED)](https://github.com/lerapeurdu62280-debug/repairpilot-pro)
-
+<td align="center" width="25%">
+  <a href="https://github.com/lerapeurdu62280-debug/repairpilot-pro">
+    <img src="https://img.shields.io/badge/🔧_RepairPilot_Pro-Gestion_réparations-7C3AED?style=flat-square" alt="RepairPilot"/>
+  </a><br/>
+  <sub>Fiches clients, suivi réparations, devis PDF</sub>
 </td>
-<td width="50%">
-
-### 💾 RecoveryPilot Pro
-**Récupération de données professionnelle**
-
-- Parseurs NTFS / FAT32 natifs
-- Carving (42 signatures de fichiers)
-- Visionneur hex & analyse S.M.A.R.T
-- Export PDF & session persistante
-
-[![Télécharger](https://img.shields.io/badge/Télécharger-15€-2563EB?style=for-the-badge&logo=windows)](https://github.com/lerapeurdu62280-debug/recoverypilot-pro/releases)
-[![GitHub](https://img.shields.io/github/stars/lerapeurdu62280-debug/recoverypilot-pro?style=flat&color=2563EB)](https://github.com/lerapeurdu62280-debug/recoverypilot-pro)
-
+<td align="center" width="25%">
+  <a href="https://github.com/lerapeurdu62280-debug/recoverypilot-pro">
+    <img src="https://img.shields.io/badge/💾_RecoveryPilot_Pro-Récupération_données-2563EB?style=flat-square" alt="RecoveryPilot"/>
+  </a><br/>
+  <sub>NTFS, FAT32, carving, S.M.A.R.T</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/lerapeurdu62280-debug/stockpilot-pro">
+    <img src="https://img.shields.io/badge/📦_StockPilot_Pro-Gestion_de_stock-059669?style=flat-square" alt="StockPilot"/>
+  </a><br/>
+  <sub>Pièces, mouvements, alertes stock bas</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  <a href="https://github.com/lerapeurdu62280-debug/diagpilot-pro">
+    <img src="https://img.shields.io/badge/🩺_DiagPilot_Pro-Diagnostic_système-DC2626?style=flat-square" alt="DiagPilot"/>
+  </a><br/>
+  <sub>CPU, RAM, GPU, réseau, temps réel</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/lerapeurdu62280-debug/cleanpilot-pro">
+    <img src="https://img.shields.io/badge/🧹_CleanPilot_Pro-Nettoyage_système-0891B2?style=flat-square" alt="CleanPilot"/>
+  </a><br/>
+  <sub>Cache, temp, démarrage, doublons</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/💰_Tous_les_logiciels-15€_/licence-F59E0B?style=flat-square" alt="Prix"/><br/>
+  <sub>Essai gratuit 30 jours</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Stack technique
+## 💻 Stack technique
 
-<div align="center">
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-## 📊 Statistiques
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lerapeurdu62280-debug&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0F172A&icon_color=2563EB&text_color=475569&bg_color=F8FAFC"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapeurdu62280-debug&layout=compact&langs_count=6&hide_border=true&title_color=0F172A&text_color=475569&bg_color=F8FAFC"/>
-
-</div>
+![Electron](https://img.shields.io/badge/Electron-28-47848F?style=flat-square&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat-square&logo=node.js&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
 <div align="center">
-
-**Fait avec ❤️ à Boulogne-sur-Mer**  
-*© 2026 S.O.S INFO LUDO — Tous droits réservés*
-
-![](https://komarev.com/ghpvc/?username=lerapeurdu62280-debug&color=2563EB&style=flat-square&label=Vues+du+profil)
-
+  <sub>© 2026 S.O.S INFO LUDO — Ludovic Tourniquet — Tous droits réservés</sub>
 </div>
