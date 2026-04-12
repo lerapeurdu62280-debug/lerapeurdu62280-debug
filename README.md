@@ -1,88 +1,81 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Salut+je+suis+SOS+INFO+LUDO+%F0%9F%91%8B;Je+code+mieux+avec+de+la+musique+%F0%9F%8E%B5;Python+%7C+JavaScript+%7C+HTML%2FCSS;Toujours+en+train+d%27apprendre...)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header&text=Ludovic%20Tourniquet&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=S.O.S%20INFO%20LUDO%20%E2%80%94%20Technicien%20%26%20Developpeur%20Windows&descSize=14&descAlignY=85&descColor=94A3B8" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Technicien+informatique+independant+%F0%9F%94%A7;Developpeur+de+logiciels+Windows+commerciaux+%F0%9F%92%BB;Electron+%C2%B7+Node.js+%C2%B7+HTML%2FCSS%2FJS;Boulogne-sur-Mer+%2862200%29+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 🏢 S.O.S INFO LUDO
 
-```python
-class SosInfoLudo:
-    def __init__(self):
-        self.username   = "lerapeurdu62280-debug"
-        self.langages   = ["Python", "JavaScript", "HTML/CSS"]
-        self.outils     = ["Git", "VS Code", "Linux"]
-        self.os         = ["Windows", "Linux"]
-        self.en_cours   = "Developpement Web et gestion de versions"
-        self.aide_sur   = "Le debogage"
-        self.fun_fact   = "Je code mieux avec de la musique"
+> Technicien informatique indépendant basé à **Boulogne-sur-Mer (62200)**.  
+> Je conçois et distribue des **logiciels Windows commerciaux** pour les professionnels de l'informatique.
 
-    def salut(self):
-        return "Bienvenue sur mon profil GitHub !"
-
-moi = SosInfoLudo()
-print(moi.salut())
-```
+📧 **sosinfoludo@gmail.com** &nbsp;|&nbsp; 📍 **Boulogne-sur-Mer, France**
 
 ---
 
-## 🛠️ Stack et Outils
+## 🛍️ Mes logiciels
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 RepairPilot Pro
+**Le cockpit du technicien informatique**
+
+- Fiches client & suivi réparations
+- Devis et facturation PDF
+- Tableau de bord & statistiques
+- Assistant IA (optionnel)
+
+[![Télécharger](https://img.shields.io/badge/Télécharger-15€-7C3AED?style=for-the-badge&logo=windows)](https://github.com/lerapeurdu62280-debug/repairpilot-pro/releases)
+[![GitHub](https://img.shields.io/github/stars/lerapeurdu62280-debug/repairpilot-pro?style=flat&color=7C3AED)](https://github.com/lerapeurdu62280-debug/repairpilot-pro)
+
+</td>
+<td width="50%">
+
+### 💾 RecoveryPilot Pro
+**Récupération de données professionnelle**
+
+- Parseurs NTFS / FAT32 natifs
+- Carving (42 signatures de fichiers)
+- Visionneur hex & analyse S.M.A.R.T
+- Export PDF & session persistante
+
+[![Télécharger](https://img.shields.io/badge/Télécharger-15€-2563EB?style=for-the-badge&logo=windows)](https://github.com/lerapeurdu62280-debug/recoverypilot-pro/releases)
+[![GitHub](https://img.shields.io/github/stars/lerapeurdu62280-debug/recoverypilot-pro?style=flat&color=2563EB)](https://github.com/lerapeurdu62280-debug/recoverypilot-pro)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack technique
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lerapeurdu62280-debug&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lerapeurdu62280-debug&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0F172A&icon_color=2563EB&text_color=475569&bg_color=F8FAFC"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapeurdu62280-debug&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=lerapeurdu62280-debug&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=7c3aed&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=3d444d" width="60%"/>
-
-</div>
-
----
-
-## 🏅 Badges
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/lerapeurdu62280-debug?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/lerapeurdu62280-debug?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github)
-![GitHub commits](https://img.shields.io/badge/Commits-54-58a6ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Open Source](https://img.shields.io/badge/Open_Source-Yes-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
-## 📈 Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lerapeurdu62280-debug&bg_color=0d1117&color=58a6ff&line=7c3aed&point=00d2ff&area=true&hide_border=true" width="100%"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapeurdu62280-debug&layout=compact&langs_count=6&hide_border=true&title_color=0F172A&text_color=475569&bg_color=F8FAFC"/>
 
 </div>
 
@@ -90,6 +83,9 @@ print(moi.salut())
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=lerapeurdu62280-debug&color=58a6ff&style=for-the-badge&label=VUES+DU+PROFIL)
+**Fait avec ❤️ à Boulogne-sur-Mer**  
+*© 2026 S.O.S INFO LUDO — Tous droits réservés*
+
+![](https://komarev.com/ghpvc/?username=lerapeurdu62280-debug&color=2563EB&style=flat-square&label=Vues+du+profil)
 
 </div>
