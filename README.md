@@ -19,24 +19,25 @@ Technicien informatique indépendant, je propose :
 
 ---
 
-## 🛠️ Mes logiciels (gamme PRO — 15€/licence)
+## 🛠️ Ma gamme de logiciels PRO
 
-| Logiciel | Description | Lien |
-|---|---|---|
-| 🔧 **RepairPilot Pro** | Gestion des réparations, fiches clients, devis PDF | [Voir le repo](https://github.com/lerapeurdu62280-debug/repairpilot-pro) |
-| 💾 **RecoveryPilot Pro** | Récupération de données NTFS / FAT32 / Carving | [Voir le repo](https://github.com/lerapeurdu62280-debug/recoverypilot-pro) |
-| 📦 **StockPilot Pro** | Gestion de stock de pièces détachées | [Voir le repo](https://github.com/lerapeurdu62280-debug/stockpilot-pro) |
-| 🩺 **DiagPilot Pro** | Diagnostic système complet en temps réel | [Voir le repo](https://github.com/lerapeurdu62280-debug/diagpilot-pro) |
-| 🧹 **CleanPilot Pro** | Nettoyage et optimisation système Windows | [Voir le repo](https://github.com/lerapeurdu62280-debug/cleanpilot-pro) |
+| Logiciel | Description | Prix | Lien |
+|---|---|---|---|
+| 🔧 **RepairPilot Pro** | Gestion des réparations, fiches clients, devis PDF | 15€ | [Repo](https://github.com/lerapeurdu62280-debug/repairpilot-pro) |
+| 💾 **RecoveryPilot Pro** | Récupération de données NTFS / FAT32 / Carving | 15€ | [Repo](https://github.com/lerapeurdu62280-debug/recoverypilot-pro) |
+| 📦 **StockPilot Pro** | Gestion de stock de pièces détachées | 15€ | [Repo](https://github.com/lerapeurdu62280-debug/stockpilot-pro) |
+| 🩺 **DiagPilot Pro** | Diagnostic système complet en temps réel | 15€ | [Repo](https://github.com/lerapeurdu62280-debug/diagpilot-pro) |
+| 🧹 **CleanPilot Pro** | Nettoyage et optimisation système Windows | 15€ | [Repo](https://github.com/lerapeurdu62280-debug/cleanpilot-pro) |
+| 🛡️ **GuardPilot Pro** | Antivirus & Anti-Malware nouvelle génération | 19€ | [Repo](https://github.com/lerapeurdu62280-debug/guardpilot-pro) |
 
-> 💡 Tous les logiciels incluent un **essai gratuit de 30 jours** avant activation de la licence.
+> 💡 Tous les logiciels incluent un **essai gratuit de 30 jours** avant activation.
 
 ---
 
 ## 💻 Stack technique
 
 ```
-Electron • Node.js • JavaScript ES2022 • HTML5 / CSS3 • Windows API
+Electron • Node.js • JavaScript ES2022 • HTML5 / CSS3 • Windows API • PowerShell
 ```
 
 ---
