@@ -92,17 +92,6 @@ Suite d'outils Windows : optimiseur système et boîte à outils technicien, pen
 
 <br>
 
-## 📊 Statistiques
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lerapeurdu62280-debug&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Statistiques GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapeurdu62280-debug&layout=compact&hide_border=true&theme=default" alt="Langages les plus utilisés" height="165" />
-
-</div>
-
-<br>
-
 ## 🧱 Stack technique
 
 ```
