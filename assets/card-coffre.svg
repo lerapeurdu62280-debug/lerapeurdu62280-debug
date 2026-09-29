@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="Coffre — RÉCUPÉRATION &amp; SÉCURITÉ">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="38%" r="60%"><stop offset="0" stop-color="#C9A24B" stop-opacity=".22"/><stop offset="1" stop-color="#C9A24B" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="400" height="250" rx="16"/></clipPath>
+    <radialGradient id="brass" cx="40%" cy="35%" r="70%"><stop offset="0" stop-color="#E9CD86"/><stop offset=".55" stop-color="#C9A24B"/><stop offset="1" stop-color="#7A5E22"/></radialGradient>
+    <radialGradient id="steel" cx="40%" cy="35%" r="75%"><stop offset="0" stop-color="#3A3F46"/><stop offset="1" stop-color="#15181C"/></radialGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="250" fill="#12141B"/>
+    <rect width="400" height="150" fill="url(#g)"/>
+    <g transform="translate(200 82)"><circle r="60" fill="url(#steel)" stroke="#C9A24B" stroke-opacity=".45" stroke-width="1.5"/>
+  <g><animateTransform attributeName="transform" type="rotate" values="0;-128;-128;-60;-60;0" keyTimes="0;.3;.45;.6;.8;1" dur="7s" repeatCount="indefinite"/>
+    <circle r="46" fill="none" stroke="url(#brass)" stroke-width="10"/>
+    <g stroke="#1A1409" stroke-width="1.5"><line y1="-51" y2="-42"/><line x1="51" x2="42"/><line y1="51" y2="42"/><line x1="-51" x2="-42"/></g></g>
+  <circle r="26" fill="url(#brass)"/><circle r="19" fill="none" stroke="#1A1409" stroke-opacity=".35"/>
+  <polygon points="0,-68 -5,-59 5,-59" fill="#C9A24B"/></g>
+    <line x1="0" y1="150" x2="400" y2="150" stroke="#2B303E"/>
+    <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+      <text x="22" y="180" font-family="'Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#C9A24B">RÉCUPÉRATION &amp; SÉCURITÉ</text>
+      <text x="22" y="212" font-size="28" font-weight="700" fill="#EEF1F7">Coffre</text>
+      <text x="22" y="236" font-size="15" fill="#9AA3B6">Récupération de données, santé des disques</text>
+    </g>
+    <g transform="translate(386 30)"><rect x="-140" y="-15" width="140" height="22" rx="6" fill="#C9A24B" fill-opacity=".10" stroke="#C9A24B" stroke-opacity=".5"/>
+      <circle cx="-128" cy="-4" r="3" fill="#C9A24B"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="-119" y="0" font-family="'Cascadia Mono',Consolas,monospace" font-size="10" letter-spacing="1" fill="#C9A24B">REFONTE EN COURS</text></g>
+    <rect x=".75" y=".75" width="398.5" height="248.5" rx="15.5" fill="none" stroke="#2B303E" stroke-width="1.5"/>
+  </g>
+</svg>

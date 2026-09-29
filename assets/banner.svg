@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ludovic Tourniquet — S.O.S INFO LUDO — Des logiciels pensés à l'établi">
+  <defs>
+    <radialGradient id="glowG" cx="22%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#3DDC84" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#3DDC84" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="88%" cy="20%" r="55%">
+      <stop offset="0" stop-color="#6EA8FF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#6EA8FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fadeGrid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="360" fill="url(#fadeGrid)"/></mask>
+    <linearGradient id="btn" x1="0" y1="0" x2=".35" y2="1">
+      <stop offset="0" stop-color="#8FBCFF"/><stop offset="1" stop-color="#6EA8FF"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3DDC84" stop-opacity=".55"/>
+      <stop offset=".35" stop-color="#2B303E" stop-opacity="1"/>
+      <stop offset=".7" stop-color="#2B303E" stop-opacity="1"/>
+      <stop offset="1" stop-color="#6EA8FF" stop-opacity=".5"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="#12141B"/>
+    <rect width="1200" height="360" fill="url(#grid)" mask="url(#gridMask)"/>
+    <rect width="1200" height="360" fill="url(#glowG)"/>
+    <rect width="1200" height="360" fill="url(#glowB)"/>
+
+    <!-- Texte -->
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <circle cx="74" cy="84" r="4" fill="#3DDC84">
+        <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="90" y="89" font-family="'Cascadia Mono', Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.6" fill="#3DDC84">TECHNICIEN INFORMATIQUE · DÉVELOPPEUR WINDOWS</text>
+      <text x="64" y="160" font-size="58" font-weight="700" fill="#EEF1F7" letter-spacing="-1.5">Ludovic Tourniquet</text>
+      <text x="66" y="212" font-size="30" fill="#9AA3B6">Des logiciels <tspan font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#D9C7A1" font-size="33">pensés à l'établi.</tspan></text>
+      <text x="66" y="262" font-size="16" fill="#666F83">S.O.S INFO LUDO · Réparation et logiciels · Boulogne-sur-Mer, depuis 2021</text>
+    </g>
+
+    <!-- Fenêtre façon AndroidTvPcIsoBuilder -->
+    <g transform="translate(780 64)">
+      <rect x="0" y="0" width="360" height="232" rx="14" fill="#0F1116" stroke="url(#edge)" stroke-width="1.5"/>
+      <rect x="1" y="1" width="358" height="28" rx="13" fill="#000"/>
+      <rect x="1" y="16" width="358" height="14" fill="#000"/>
+      <text x="16" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#EEF1F7">AndroidTvPcIsoBuilder</text>
+      <g fill="none" stroke="#9AA3B6" stroke-width="1.2"><path d="M300 15h9"/><rect x="319" y="10" width="9" height="9"/><path d="M338 10l9 9M347 10l-9 9"/></g>
+      <text x="180" y="72" text-anchor="middle" font-family="'Cascadia Mono', Consolas, monospace" font-size="8.5" letter-spacing="1.2" fill="#7FBF7F">PERSONNALISATION D'IMAGES ANDROID TV</text>
+      <text x="180" y="98" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#EEF1F7">Votre propre système Android TV</text>
+      <rect x="128" y="116" width="104" height="30" rx="8" fill="url(#btn)"/>
+      <text x="180" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#0C1220">Nouveau projet</text>
+      <g font-family="'Segoe UI', Arial, sans-serif">
+        <rect x="18" y="166" width="100" height="46" rx="8" fill="#191C25" stroke="#2B303E"/>
+        <rect x="130" y="166" width="100" height="46" rx="8" fill="#191C25" stroke="#2B303E"/>
+        <rect x="242" y="166" width="100" height="46" rx="8" fill="#191C25" stroke="#2B303E"/>
+        <text x="28" y="184" font-family="Consolas, monospace" font-size="7" fill="#666F83">ÉTAPES 1 ET 2</text>
+        <text x="28" y="200" font-size="10" font-weight="600" fill="#EEF1F7">Source et logo</text>
+        <text x="140" y="184" font-family="Consolas, monospace" font-size="7" fill="#666F83">ÉTAPES 3 À 5</text>
+        <text x="140" y="200" font-size="10" font-weight="600" fill="#EEF1F7">Applications</text>
+        <text x="252" y="184" font-family="Consolas, monospace" font-size="7" fill="#666F83">ÉTAPE 6</text>
+        <text x="252" y="200" font-size="10" font-weight="600" fill="#EEF1F7">En direct</text>
+      </g>
+      <!-- barre de progression animée -->
+      <rect x="18" y="222" width="324" height="3" rx="1.5" fill="#20242F"/>
+      <rect x="18" y="222" width="0" height="3" rx="1.5" fill="#3DDC84">
+        <animate attributeName="width" values="0;324;324;0" keyTimes="0;.7;.9;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x=".75" y=".75" width="1198.5" height="358.5" rx="21.5" fill="none" stroke="#2B303E" stroke-width="1.5"/>
+  </g>
+</svg>
