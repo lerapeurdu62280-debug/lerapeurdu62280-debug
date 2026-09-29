@@ -48,13 +48,13 @@ Choisissez une image Android TV, ajoutez vos applications, votre Wi-Fi et votre 
 
 ## 🧰 La suite atelier
 
-Treize petits utilitaires réunis en trois logiciels cohérents, réécrits dans la même qualité qu'AndroidTvPcIsoBuilder. **Pulse 2.0 et Coffre 2.0 sont disponibles** (gratuits, avec option Premium) ; Cadran suit.
+Treize petits utilitaires réunis en trois logiciels cohérents, réécrits dans la même qualité qu'AndroidTvPcIsoBuilder. **Pulse, Coffre et Cadran 2.0 sont disponibles** (gratuits, avec option Premium à vie).
 
 <table>
 <tr>
 <td width="33%" align="center"><a href="https://github.com/lerapeurdu62280-debug/Pulse-Download"><img src="assets/card-pulse.svg" alt="Pulse — maintenance PC, disponible" width="100%"></a></td>
 <td width="33%" align="center"><a href="https://github.com/lerapeurdu62280-debug/Coffre-Download"><img src="assets/card-coffre.svg" alt="Coffre — récupération et sécurité, disponible" width="100%"></a></td>
-<td width="33%" align="center"><img src="assets/card-cadran.svg" alt="Cadran — gestion d'atelier" width="100%"></td>
+<td width="33%" align="center"><a href="https://github.com/lerapeurdu62280-debug/Cadran-Download"><img src="assets/card-cadran.svg" alt="Cadran — gestion d'atelier, disponible" width="100%"></a></td>
 </tr>
 </table>
 
