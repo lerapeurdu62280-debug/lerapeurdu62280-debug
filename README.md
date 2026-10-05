@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-logiciels-6EA8FF?style=for-the-badge&labelColor=12141B)](https://lerapeurdu62280-debug.github.io/Mon-Portfolio/)
 [![Atelier](https://img.shields.io/badge/Atelier-Boulogne--sur--Mer-3DDC84?style=for-the-badge&labelColor=12141B)](https://lerapeurdu62280-debug.github.io/SOS-INFO-LUDO-Site/)
 [![E-mail](https://img.shields.io/badge/E--mail-s.o.sinfoludo%40gmail.com-D9C7A1?style=for-the-badge&labelColor=12141B)](mailto:s.o.sinfoludo@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12141B)](https://discord.gg/W5hd36CW6b)
 
 </div>
 
@@ -112,6 +113,14 @@ Treize petits utilitaires réunis en trois logiciels cohérents, réécrits dans
 ---
 
 <div align="center">
+
+### 💬 Le Discord de l'atelier
+
+Rendez-vous en un clic, suivi de réparation en direct, aide sur les logiciels, conseils et alertes arnaques.
+
+**[Rejoindre le serveur S.O.S INFO LUDO →](https://discord.gg/W5hd36CW6b)**
+
+<br>
 
 **S.O.S INFO LUDO** · Ludovic Tourniquet · 19 rue Leuliette, 62200 Boulogne-sur-Mer · 06 59 59 05 15
 
