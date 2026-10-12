@@ -68,6 +68,7 @@ Treize petits utilitaires réunis en trois logiciels cohérents, réécrits dans
 | **[WinForge Studio](https://github.com/lerapeurdu62280-debug/WinForgeStudio)** | Construit des ISO Windows sur mesure : applications superflues retirées, pilotes injectés, installation automatisée | En développement |
 | **T-CON Master Pro** | Diagnostic et réparation des cartes T-CON de téléviseurs, base de cartes, export PDF et Excel | Usage atelier |
 | **RepairPost Studio** | Rédige les publications Facebook de l'atelier à partir d'une veille d'actualités tech | Usage atelier |
+| **[CyberVigie](https://github.com/lerapeurdu62280-debug/CyberVigie-Download)** | Sensibilisation à la cybersécurité : démonstrations (mot de passe, phishing, métadonnées photo) et 57 fiches de prévention — **outil pédagogique, rien de réel sur la machine** | Gratuit |
 
 <details>
 <summary><b>🧪 Laboratoire web</b> : petits outils en ligne, gratuits</summary>
