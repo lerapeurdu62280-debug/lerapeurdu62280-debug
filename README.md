@@ -69,6 +69,7 @@ Treize petits utilitaires réunis en trois logiciels cohérents, réécrits dans
 | **T-CON Master Pro** | Diagnostic et réparation des cartes T-CON de téléviseurs, base de cartes, export PDF et Excel | Usage atelier |
 | **RepairPost Studio** | Rédige les publications Facebook de l'atelier à partir d'une veille d'actualités tech | Usage atelier |
 | **[CyberVigie](https://github.com/lerapeurdu62280-debug/CyberVigie-Download)** | Sensibilisation à la cybersécurité : démonstrations (mot de passe, phishing, métadonnées photo) et 57 fiches de prévention — **outil pédagogique, rien de réel sur la machine** | Gratuit |
+| **[Mijote](https://github.com/lerapeurdu62280-debug/Mijote-Download)** | Vos propres recettes sur le Cookeo USB : ingrédients pour 2, 4 et 6 personnes, étapes guidées et cuisson automatique | Disponible · 15 € |
 
 <details>
 <summary><b>🧪 Laboratoire web</b> : petits outils en ligne, gratuits</summary>
@@ -125,6 +126,6 @@ Rendez-vous en un clic, suivi de réparation en direct, aide sur les logiciels, 
 
 **S.O.S INFO LUDO** · Ludovic Tourniquet · 19 rue Leuliette, 62200 Boulogne-sur-Mer · 06 59 59 05 15
 
-<sub>Logiciels propriétaires, tous droits réservés. Android et Android TV sont des marques de Google LLC ; Windows est une marque de Microsoft Corporation.</sub>
+<sub>Logiciels propriétaires, tous droits réservés. Android et Android TV sont des marques de Google LLC ; Windows est une marque de Microsoft Corporation ; Moulinex et Cookeo sont des marques de Groupe SEB.</sub>
 
 </div>
